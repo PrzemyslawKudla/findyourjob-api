@@ -6,3 +6,4 @@ $server_address = 'localhost';
 $user_password = '';
 $db_name = 'project_AI';
 $user_login = 'root';
+//test
