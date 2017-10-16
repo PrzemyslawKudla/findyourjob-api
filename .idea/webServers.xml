@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5e927c54-a499-4282-8fb9-ec2815e1d7b0" name="finfYourJob" url="http://przem94.ayz.pl">
+        <fileTransfer host="przem94.ayz.pl" port="21" rootFolder="/public_html/projectAI">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
